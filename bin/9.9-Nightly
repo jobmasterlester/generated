@@ -1002,7 +1002,6 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561902/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561902/index.mpd
 https://feb483bc40ee4306a87c48b45452606f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH12-dash/default_ott.mpd
 
 #EXTINF:-1 tvg-id="worldtv" tvg-name="KINO ACTION" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",KINO ACTION
