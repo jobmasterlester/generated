@@ -953,6 +953,7 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6349d2165514fa38fb6f1348679ba36:1db75d2e54ff52806d84af64499685ff
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ABC)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="ALJAZEERA" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ALJAZEERA
@@ -960,6 +961,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ABC)/master
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5c0678dad08451e955a53ee95aff30f:a05ca10851a61c2933243b7169be6679
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(aljazeera)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="ANIMAX" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ANIMAX
@@ -967,6 +969,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(aljazeera)/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(animax)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="ASIAN FOOD NETWORK" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ASIAN FOOD NETWORK
@@ -974,6 +977,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(animax)/mas
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(asianfoodnetwork)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="AXN" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",AXN
@@ -981,6 +985,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(asianfoodne
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4345340d92d64788bef7d99594cbe643:c67f6e21ebbd520e31d4141b771d3867
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(axn)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="BBC EARTH" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",BBC EARTH
@@ -988,6 +993,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(axn)/master
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5381b805544744d8b6344de564d327f5:d5fa0ec68c6a7c86c19f630cfd353606
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bbcearth)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="BBC LIFESTYLE" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",BBC LIFESTYLE
@@ -995,6 +1001,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bbcearth)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2610c65bf27740e29f9cc41dc3549781:12e8aaacff0fc2bd780058a5c6883a1c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bbclife)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="BBC NEWS" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",BBC NEWS
@@ -1002,6 +1009,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bbclife)/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0282f5cc38944bf58d8fdd9abc312339:f422861c29542fe34c866b1cd291f411
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bbcw)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="BEIN SPORTS 1" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",BEIN SPORTS 1
@@ -1009,6 +1017,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bbcw)/maste
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bein1)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="BEIN SPORTS 2" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",BEIN SPORTS 2
@@ -1016,6 +1025,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bein1)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bein2)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="BEIN SPORTS 3" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",BEIN SPORTS 3
@@ -1023,6 +1033,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bein2)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bein3)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="BEIN SPORTS 4" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",BEIN SPORTS 4
@@ -1030,6 +1041,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bein3)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bein4)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="CARTOON NETWORK" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",CARTOON NETWORK
@@ -1037,6 +1049,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(bein4)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CARTOONNET)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="CBEEBIES" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",CBEEBIES
@@ -1044,6 +1057,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CARTOONNET)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(cbeebies)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="CCTV4" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",CCTV4
@@ -1051,6 +1065,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(cbeebies)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61f56bac8d6d4e818c4cbfb9099abde6:029c725769175e6a0739b073e4a70bbf
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(cctv4)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="CELESTIAL CLASSIC MOVIES" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",CELESTIAL CLASSIC MOVIES
@@ -1058,6 +1073,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(cctv4)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5dcc7b00add745619ff1dd29ac7e591c:cdab9ac07955a7a2ea78b03343b77fbd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIALC)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="CELESTIAL MOVIES" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",CELESTIAL MOVIES
@@ -1065,6 +1081,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIALC)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=107e13b213a94a6cbb6d02c25653c083:044af5b9e0258e2d39437ee03365fd2d
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIAL)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="CINEMAX" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",CINEMAX
@@ -1072,6 +1089,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CELESTIAL)/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(cinemax)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="DREAMWORKS" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",DREAMWORKS
@@ -1079,6 +1097,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(cinemax)/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(dreamworks)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="HBO" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",HBO
@@ -1086,6 +1105,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(dreamworks)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hbo)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="HBO FAMILY" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",HBO FAMILY
@@ -1093,6 +1113,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hbo)/master
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hbof)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="HBO HITS" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",HBO HITS
@@ -1100,6 +1121,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hbof)/maste
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hboh)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="HITS" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",HITS
@@ -1107,6 +1129,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hboh)/maste
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=196b011306d04ac38c2b8493b89a40d5:862064c3fbd5f4d2e8a9e7b89889a06b
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hits)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="HITS MOVIES" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",HITS MOVIES
@@ -1114,6 +1137,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hits)/maste
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74ecb929cd504143bb68bd0e7cac6f4e:b71cfa4590853ea63014e128ecdb4fbe
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsm)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="HITS NOW" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",HITS NOW
@@ -1121,6 +1145,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsm)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c350232d50f46dcb776ea6d12f875d2:9469ab183f965894e038e2c137f0faa0
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsnow)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="K-PLUS" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",K-PLUS
@@ -1128,6 +1153,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsnow)/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=826e7fd2d6a14060bfea9347d96f8824:176897afb079e0cc76bc912df4cb0b6e
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(kplus)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="LOVE NATURE" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",LOVE NATURE
@@ -1135,6 +1161,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(kplus)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3af2407f93664272a2b0c24be3632d93:6504d3e04a92a7d0d0d36818f477cae4
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(lovenature)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="MOONBUG" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",MOONBUG
@@ -1142,6 +1169,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(lovenature)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3189457b38b4ed9888c5a2e763f0ab8:d4dc62e11dd1856ed4f9a26d44271d0b
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(moonbug)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="MOONBUG" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",MOONBUG
@@ -1149,6 +1177,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(moonbug)/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3189457b38b4ed9888c5a2e763f0ab8:d4dc62e11dd1856ed4f9a26d44271d0b
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(moonbug)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="NHK" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",NHK
@@ -1156,6 +1185,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(moonbug)/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1e473b4fac4c13b6bd73014a14df4e:602617c77b787b240308567f1f04df20
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(NHK)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="NICK JR." tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",NICK JR.
@@ -1163,6 +1193,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(NHK)/master
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe60385da93e48cda9dce2c686862462:8e7c6f6beb074f153da1b00c3cf95908
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(nickjr)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="NICKELODEON" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",NICKELODEON
@@ -1170,6 +1201,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(nickjr)/mas
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(nickelodeon)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="ROCK ACTION" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ROCK ACTION
@@ -1177,6 +1209,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c64cf911505e42c8aa17869ae51206ba:2f3f5f1c609c1120216d4d72377d1ac2
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(rockaction)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ROCK ENTERTAINMENT
@@ -1184,6 +1217,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(rockaction)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6bbe30dc7d7949849ba0c4f2abb2a3ff:9eb316564523faecf7d5b2fef8081007
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(rockent)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="SONY YAY" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",SONY YAY
@@ -1191,6 +1225,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(rockent)/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=582e9e382cb0495886afbabdbdb6fbf7:c0f550839b235443724cd007392b6e40
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(sonyyay)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="SPOTV" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",SPOTV
@@ -1198,6 +1233,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(sonyyay)/ma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b593bd530f1403a8f3eb9b2cd9236c8:d07c6a7f0b37a4090341e6380ff85060
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spotv)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="SPOTV 2" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",SPOTV 2
@@ -1205,6 +1241,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spotv)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spotv2)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="TVN" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",TVN
@@ -1212,6 +1249,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(spotv2)/mas
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tvnhd)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="TVN MOVIES" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",TVN MOVIES
@@ -1219,6 +1257,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tvnhd)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tvnm)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="WARNER TV" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",WARNER TV
@@ -1226,6 +1265,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(tvnm)/maste
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(warnertv)/master.mpd	
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="ZEE CINEMA" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ZEE CINEMA
@@ -1233,6 +1273,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(warnertv)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=22fdfcf5cb304eb6b2ebbecbca9c9d10:b7c4f0ab8bc0bd4deabe73cf75dfa537
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ZeeCinema)/master.mpd
 
 ********** TimesPlay **********
