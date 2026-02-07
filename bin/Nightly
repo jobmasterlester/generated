@@ -1121,7 +1121,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsm)/mast
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c350232d50f46dcb776ea6d12f875d2:9469ab183f965894e038e2c137f0faa0
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsn)/master.mpd
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(hitsnow)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="K-PLUS" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",K-PLUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
