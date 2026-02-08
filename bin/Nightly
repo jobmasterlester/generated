@@ -797,6 +797,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 #KODIPROP:inputstream.adaptive.license_key=8312167d7069b2cf5020eb4d9b8f30fe:af4deab1104c3f1ea9502b065c7e4907
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/f0pyujzc28/out/v1/fa2a3273fd8b4a8ca6862eb4cb4f8ad7/cenc-sd.mpd
 
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO 1",HBO 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
+
 #EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO BOXING" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO 1",HBO BOXING
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -809,7 +816,28 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/o
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO EAST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO 1",HBO EAST
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO SIGNATURE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO 1",HBO SIGNATURE
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO WEST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO 1",HBO WEST
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
 #EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO ZONE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO 1",HBO ZONE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
