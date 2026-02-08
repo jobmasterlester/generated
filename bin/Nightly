@@ -956,12 +956,13 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 
 ********** Unifi **********
 
-#EXTINF:-1 tvg-id="unifi" tvg-name="ABC" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ABC
+#EXTINF:-1 tvg-id="unifi" tvg-name="ABC" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ABC (TEST)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6349d2165514fa38fb6f1348679ba36:1db75d2e54ff52806d84af64499685ff
-#KODIPROP:inputstream.adaptive.common_headers=user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.common_headers=http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(ABC)/master.mpd
 
 #EXTINF:-1 tvg-id="unifi" tvg-name="ALJAZEERA" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ALJAZEERA
