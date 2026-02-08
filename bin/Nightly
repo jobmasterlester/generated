@@ -608,12 +608,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
 
 ********** Converge **********
 
-#EXTINF:-1 tvg-id="converge" tvg-name="GMA 7" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",GMA 7 (TEST)
+#EXTINF:-1 tvg-id="converge" tvg-name="GMA 7" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",GMA 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 http://136.239.158.30:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=Tajaqa/dPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY4LvT86fM74ocVChyFS93HUe9OnZTxGvJPcGpQT0Y5Pwg==&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="KAPAMILYA CHANNEL HD" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",KAPAMILYA CHANNEL HD (TEST)
+#EXTINF:-1 tvg-id="converge" tvg-name="KAPAMILYA CHANNEL HD" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",KAPAMILYA CHANNEL HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 http://136.239.158.30:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=Tajaqa/dPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg==&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
@@ -1368,13 +1368,6 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 ********** WorldTV **********
-
-#EXTINF:-1 tvg-id="worldtv" tvg-name="ANIPLUS" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",ANIPLUS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/AniPlus/index.mpd
 
 #EXTINF:-1 tvg-id="worldtv" tvg-name="FX" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",FX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
