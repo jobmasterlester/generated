@@ -1007,7 +1007,7 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #EXTINF:-1 tvg-id="unifi" tvg-name="ASIAN FOOD NETWORK" tvg-logo="https://play-lh.googleusercontent.com/NcThOnFXlz2yU0e3qDxeM_B1AmsUr_Y5fz6_HgXq3n8y12_VFMs9je6hMuNx6j-zHcaKaOAbo7QOweW6M_HIbNw" group-title="🇲🇾 UNIFI",ASIAN FOOD NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d6f69611e9e94a1cba591f855b191362":"bbd319d36c1728a8e4cc6bb4a8ad12f4"}
+#KODIPROP:inputstream.adaptive.license_key=d6f69611e9e94a1cba591f855b191362:bbd319d36c1728a8e4cc6bb4a8ad12f4
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(AsianFoodNetwork)/master.mpd
 
 ********** TimesPlay **********
