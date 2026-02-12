@@ -606,7 +606,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=7f2a9c6d1e5b4c8a8d10a2b7e1c9f344:ae3d135d5ddd9e8f3a7bbfbfae0e40d1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cignalplay" tvg-name="WILL TV" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",WILL TV
+#EXTINF:-1 tvg-id="cignalplay" tvg-name="WILL TV" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",WIL TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
