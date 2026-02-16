@@ -71,7 +71,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/in
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+#KODIPROP:inputstream.adaptive.license_key=fa69a1151a004e1abbcb08dfa89720f3
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbclifestyle/default/index.mpd
 
 #EXTINF:-1 tvg-id="cignalplay" tvg-name="BBC NEWS" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",BBC NEWS
@@ -316,7 +316,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
+#KODIPROP:inputstream.adaptive.license_key=c7d2b1e94f8a4d6c8a106b3d1f9c2e55:2052f6b844aa53144bb32f0e41295106
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
 
 #EXTINF:-1 tvg-id="cignalplay" tvg-name="LIFETIME" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",LIFETIME
@@ -435,7 +435,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/i
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c1e7b9d2f6a4d8c8a55e9d2c7b1a344:e72d21a22e89660ff0ec33627eb4ef35
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="cignalplay" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",ROCK ENTERTAINMENT
@@ -480,13 +480,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cignalplay" tvg-name="TAP ACTION FLIX" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",TAP ACTION FLIX
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
-
 #EXTINF:-1 tvg-id="cignalplay" tvg-name="TAP MOVIES" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",TAP MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -507,13 +500,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c1e7b9d2f6a4d8c8a55e9d2c7b1a344:e72d21a22e89660ff0ec33627eb4ef35
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_taptv_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="cignalplay" tvg-name="TECHSTORM" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",TECHSTORM
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tech_storm/default/index.mpd
 
 #EXTINF:-1 tvg-id="cignalplay" tvg-name="THRILL" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY",THRILL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1091,3 +1077,343 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a810652446911ec9ac00137550b00c0:c561702961b59c4c5e2de21a29b3fff2
 https://absvod.akamaized.net/c/2/m/8a810652-4469-11ec-9ac0-0137550b00c0.ism/manifest.mpd
+
+********** SupersonicTV **********
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+http://supersonictv.live:8080/611366/682256/85950
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN SPORTS ACTION" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN SPORTS ACTION
+http://supersonictv.live:8080/611366/682256/85951
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CINEMO" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CINEMO
+http://supersonictv.live:8080/611366/682256/85952
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="GMA LIFE TV1 " tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",GMA LIFE TV 1
+http://supersonictv.live:8080/611366/682256/85953
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="GMA NEWS TV" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",GMA NEWS TV
+http://supersonictv.live:8080/611366/682256/85954
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="GMA PINOY TV 1" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",GMA PINOY TV 1
+http://supersonictv.live:8080/611366/682256/85955
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="HOPE CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",HOPE CHANNEL
+http://supersonictv.live:8080/611366/682256/85956
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="INC TV" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",INC TV
+http://supersonictv.live:8080/611366/682256/85957
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TFC" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TFC
+http://supersonictv.live:8080/611366/682256/85958
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="UNTV" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",UNTV
+http://supersonictv.live:8080/611366/682256/85959
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="GMA LIFE TV2" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",GMA LIFE TV 2
+http://supersonictv.live:8080/611366/682256/85960
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="GMA PINOY TV 2" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",GMA PINOY TV 2
+http://supersonictv.live:8080/611366/682256/85961
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TFC HD" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TFC HD
+http://supersonictv.live:8080/611366/682256/85962
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TFC SD" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TFC SD
+http://supersonictv.live:8080/611366/682256/85963
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CNN" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CNN
+http://supersonictv.live:8080/611366/682256/85964
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="DZRH NEWS" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",DZRH NEWS
+http://supersonictv.live:8080/611366/682256/85965
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="MYX" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",MYX
+http://supersonictv.live:8080/611366/682256/85966
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CINEMO NOLA" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CINEMO NOLA
+http://supersonictv.live:8080/611366/682256/85967
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TFC AUSTRALIA" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TFC AUSTRALIA
+http://supersonictv.live:8080/611366/682256/85968
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TFC MIDDLE EAST" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TFC MIDDLE EAST
+http://supersonictv.live:8080/611366/682256/85969
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TFC EUROPE" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TFC EUROPE
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC Europe" tvg-logo="" group-title="PHILIPPINES",PH TFC Europe
+http://supersonictv.live:8080/611366/682256/85970
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TFC CANADA" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TFC CANADA
+http://supersonictv.live:8080/611366/682256/85971
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CINEMA ONE" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CINEMA ONE
+http://supersonictv.live:8080/611366/682256/85972
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ONE SPORT" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ONE SPORT
+http://supersonictv.live:8080/611366/682256/85973
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TFC ARABIC" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TFC ARABIC
+#EXTINF:-1 tvg-id="" tvg-name="PH Arabic TFC" tvg-logo="" group-title="PHILIPPINES",PH Arabic TFC
+http://supersonictv.live:8080/611366/682256/85974
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="SMNI" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",SMNI
+http://supersonictv.live:8080/611366/682256/85975
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="PTV NEWS" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",PTV NEWS
+http://supersonictv.live:8080/611366/682256/85976
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TV5" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TV5
+http://supersonictv.live:8080/611366/682256/85977
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="TV MARIA" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",TV MARIA
+#EXTINF:-1 tvg-id="" tvg-name="PH TV Maria" tvg-logo="" group-title="PHILIPPINES",PH TV Maria
+http://supersonictv.live:8080/611366/682256/85978
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABC AUSTRALIA" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABC AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="PH ABC Austrailia" tvg-logo="" group-title="PHILIPPINES",PH ABC Austrailia
+http://supersonictv.live:8080/611366/682256/85979
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="AFN" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",AFN
+#EXTINF:-1 tvg-id="" tvg-name="PH AFN" tvg-logo="" group-title="PHILIPPINES",PH AFN
+http://supersonictv.live:8080/611366/682256/85980
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ANIMAX" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ANIMAX
+#EXTINF:-1 tvg-id="" tvg-name="PH ANIMAX" tvg-logo="" group-title="PHILIPPINES",PH ANIMAX
+http://supersonictv.live:8080/611366/682256/85981
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="AXN" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",AXN
+#EXTINF:-1 tvg-id="" tvg-name="PH AXN" tvg-logo="" group-title="PHILIPPINES",PH AXN
+http://supersonictv.live:8080/611366/682256/85982
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="BLUE ANT ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",BLUE ANT ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="PH Blue Ant Entertainment" tvg-logo="" group-title="PHILIPPINES",PH Blue Ant Entertainment
+http://supersonictv.live:8080/611366/682256/85983
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CARTOON NETWORK" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CARTOON NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="PH Cartoon NW" tvg-logo="" group-title="PHILIPPINES",PH Cartoon NW
+http://supersonictv.live:8080/611366/682256/85984
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CELESTIAL MOVIES PINOY" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CELESTIAL MOVIES PINOY
+#EXTINF:-1 tvg-id="" tvg-name="PH CELESTIAL MOV PINOY" tvg-logo="" group-title="PHILIPPINES",PH CELESTIAL MOV PINOY
+http://supersonictv.live:8080/611366/682256/85985
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CGTV DOCUMENTARY" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CGTV DOCUMENTARY
+#EXTINF:-1 tvg-id="" tvg-name="PH CGTV DOC" tvg-logo="" group-title="PHILIPPINES",PH CGTV DOC
+http://supersonictv.live:8080/611366/682256/85986
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CINEMAX" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CINEMAX
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemax" tvg-logo="" group-title="PHILIPPINES",PH Cinemax
+http://supersonictv.live:8080/611366/682256/85987
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CINEMO" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CINEMO
+#EXTINF:-1 tvg-id="" tvg-name="PH Cinemo" tvg-logo="" group-title="PHILIPPINES",PH Cinemo
+http://supersonictv.live:8080/611366/682256/85988
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CLTV 36" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CLTV 36
+#EXTINF:-1 tvg-id="" tvg-name="PH CLTV 36" tvg-logo="" group-title="PHILIPPINES",PH CLTV 36
+http://supersonictv.live:8080/611366/682256/85989
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CNA" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CNA
+#EXTINF:-1 tvg-id="" tvg-name="PH CNA" tvg-logo="" group-title="PHILIPPINES",PH CNA
+http://supersonictv.live:8080/611366/682256/85990
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CNN PHILIPPINES" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CNN PHILIPPINES
+#EXTINF:-1 tvg-id="" tvg-name="PH CNN Philipines" tvg-logo="" group-title="PHILIPPINES",PH CNN Philipines
+http://supersonictv.live:8080/611366/682256/85991
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="CRIME INVESTIGATION" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="" tvg-name="PH Crime Investiragtien" tvg-logo="" group-title="PHILIPPINES",PH Crime Investiragtien
+http://supersonictv.live:8080/611366/682256/85992
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="DISCOVERY" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="PH Discovery" tvg-logo="" group-title="PHILIPPINES",PH Discovery
+http://supersonictv.live:8080/611366/682256/85993
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="DISCOVERY ASIA" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",DISCOVERY ASIA
+#EXTINF:-1 tvg-id="" tvg-name="PH Discovery Asia" tvg-logo="" group-title="PHILIPPINES",PH Discovery Asia
+http://supersonictv.live:8080/611366/682256/85994
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="DZRH NEWS TV" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",DZRH NEWS TV
+#EXTINF:-1 tvg-id="" tvg-name="PH DZRH NEWS TV" tvg-logo="" group-title="PHILIPPINES",PH DZRH NEWS TV
+http://supersonictv.live:8080/611366/682256/85995
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH ETC" tvg-logo="" group-title="PHILIPPINES",PH ETC
+http://supersonictv.live:8080/611366/682256/85996
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Fight" tvg-logo="" group-title="PHILIPPINES",PH Fight
+http://supersonictv.live:8080/611366/682256/85997
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH GCTV" tvg-logo="" group-title="PHILIPPINES",PH GCTV
+http://supersonictv.live:8080/611366/682256/85998
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH GMA7" tvg-logo="" group-title="PHILIPPINES",PH GMA7
+http://supersonictv.live:8080/611366/682256/85999
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH HBO Family" tvg-logo="" group-title="PHILIPPINES",PH HBO Family
+http://supersonictv.live:8080/611366/682256/86000
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH HBO HITS" tvg-logo="" group-title="PHILIPPINES",PH HBO HITS
+http://supersonictv.live:8080/611366/682256/86001
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Hilsong Channel" tvg-logo="" group-title="PHILIPPINES",PH Hilsong Channel
+http://supersonictv.live:8080/611366/682256/86002
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH HITS Movies" tvg-logo="" group-title="PHILIPPINES",PH HITS Movies
+http://supersonictv.live:8080/611366/682256/86003
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH HORSE RACING" tvg-logo="" group-title="PHILIPPINES",PH HORSE RACING
+http://supersonictv.live:8080/611366/682256/86004
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH IBC13" tvg-logo="" group-title="PHILIPPINES",PH IBC13
+http://supersonictv.live:8080/611366/682256/86005
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH IBC13" tvg-logo="" group-title="PHILIPPINES",PH IBC13
+http://supersonictv.live:8080/611366/682256/86006
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH INCTV" tvg-logo="" group-title="PHILIPPINES",PH INCTV
+http://supersonictv.live:8080/611366/682256/86007
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH JTV DR" tvg-logo="" group-title="PHILIPPINES",PH JTV DR
+http://supersonictv.live:8080/611366/682256/86008
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Kapamilya Channel" tvg-logo="" group-title="PHILIPPINES",PH Kapamilya Channel
+http://supersonictv.live:8080/611366/682256/86009
+#EXTINF:-1 tvg-id="" tvg-name="PH KBS World" tvg-logo="" group-title="PHILIPPINES",PH KBS World
+http://supersonictv.live:8080/611366/682256/86010
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel" tvg-logo="" group-title="PHILIPPINES",PH Knowledge Channel
+http://supersonictv.live:8080/611366/682256/86011
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Knowledge Channel" tvg-logo="" group-title="PHILIPPINES",PH Knowledge Channel
+http://supersonictv.live:8080/611366/682256/86012
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Lifetime" tvg-logo="" group-title="PHILIPPINES",PH Lifetime
+http://supersonictv.live:8080/611366/682256/86013
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH LIGHT TV" tvg-logo="" group-title="PHILIPPINES",PH LIGHT TV
+http://supersonictv.live:8080/611366/682256/86014
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH MOR" tvg-logo="" group-title="PHILIPPINES",PH MOR
+http://supersonictv.live:8080/611366/682256/86015
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH NET25" tvg-logo="" group-title="PHILIPPINES",PH NET25
+http://supersonictv.live:8080/611366/682256/86016
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Nick" tvg-logo="" group-title="PHILIPPINES",PH Nick
+http://supersonictv.live:8080/611366/682256/86017
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH One PH" tvg-logo="" group-title="PHILIPPINES",PH One PH
+http://supersonictv.live:8080/611366/682256/86018
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH One Screen" tvg-logo="" group-title="PHILIPPINES",PH One Screen
+http://supersonictv.live:8080/611366/682256/86019
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Outdoor Channel" tvg-logo="" group-title="PHILIPPINES",PH Outdoor Channel
+http://supersonictv.live:8080/611366/682256/86020
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH PBO" tvg-logo="" group-title="PHILIPPINES",PH PBO
+http://supersonictv.live:8080/611366/682256/86021
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH PINOY XTREME" tvg-logo="" group-title="PHILIPPINES",PH PINOY XTREME
+http://supersonictv.live:8080/611366/682256/86022
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH PPV" tvg-logo="" group-title="PHILIPPINES",PH PPV
+http://supersonictv.live:8080/611366/682256/86023
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH PTV4" tvg-logo="" group-title="PHILIPPINES",PH PTV4
+http://supersonictv.live:8080/611366/682256/86024
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH QTV" tvg-logo="" group-title="PHILIPPINES",PH QTV
+http://supersonictv.live:8080/611366/682256/86025
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH SARI SARI" tvg-logo="" group-title="PHILIPPINES",PH SARI SARI
+http://supersonictv.live:8080/611366/682256/86026
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH SHOPTV" tvg-logo="" group-title="PHILIPPINES",PH SHOPTV
+http://supersonictv.live:8080/611366/682256/86027
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH SMNI" tvg-logo="" group-title="PHILIPPINES",PH SMNI
+http://supersonictv.live:8080/611366/682256/86028
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH TeleNovela" tvg-logo="" group-title="PHILIPPINES",PH TeleNovela
+http://supersonictv.live:8080/611366/682256/86029
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH TFC USA" tvg-logo="" group-title="PHILIPPINES",PH TFC USA
+http://supersonictv.live:8080/611366/682256/86030
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH thill" tvg-logo="" group-title="PHILIPPINES",PH thill
+http://supersonictv.live:8080/611366/682256/86031
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH TLC" tvg-logo="" group-title="PHILIPPINES",PH TLC
+http://supersonictv.live:8080/611366/682256/86032
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Travel Channel" tvg-logo="" group-title="PHILIPPINES",PH Travel Channel
+http://supersonictv.live:8080/611366/682256/86033
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH TV5" tvg-logo="" group-title="PHILIPPINES",PH TV5
+http://supersonictv.live:8080/611366/682256/86034
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH Tv5 Monde ASIE" tvg-logo="" group-title="PHILIPPINES",PH Tv5 Monde ASIE
+http://supersonictv.live:8080/611366/682256/86035
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH TV5-2" tvg-logo="" group-title="PHILIPPINES",PH TV5-2
+http://supersonictv.live:8080/611366/682256/86036
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH TVN" tvg-logo="" group-title="PHILIPPINES",PH TVN
+http://supersonictv.live:8080/611366/682256/86037
+#EXTINF:-1 tvg-id="" tvg-name="PH TVSHOP" tvg-logo="" group-title="PHILIPPINES",PH TVSHOP
+http://supersonictv.live:8080/611366/682256/86038
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH UNTV" tvg-logo="" group-title="PHILIPPINES",PH UNTV
+http://supersonictv.live:8080/611366/682256/86039
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH VIVA CINEMA" tvg-logo="" group-title="PHILIPPINES",PH VIVA CINEMA
+http://supersonictv.live:8080/611366/682256/86040
+
+#EXTINF:-1 tvg-id="supersonictv" tvg-name="ABS-CBN NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/wz76RJorbqZJfVV8QBeddvKj-ZccmfGngx3ruMBC4g_RQlvyyTEGQnxGuHrLHgnLTiEC" group-title="🇵🇭 SUPERSONICTV",ABS-CBN NEWS CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="PH UNTV" tvg-logo="" group-title="PHILIPPINES",PH UNTV
+http://supersonictv.live:8080/611366/682256/86041
