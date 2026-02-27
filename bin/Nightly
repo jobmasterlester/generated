@@ -748,7 +748,7 @@ https://slive.mana2.my/RockAction/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/RockEntertainment/index.mpd
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="SPOTVNOW" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",SPOTVNOW
+#EXTINF:-1 tvg-id="mytv" tvg-name="SPOTV NOW" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",SPOTV NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
