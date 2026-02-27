@@ -704,6 +704,64 @@ https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/ind
 #KODIPROP:inputstream.adaptive.license_key=57c50351e2a4c42a5c34cfb5c0b0682:03a2754079e082f7dec48ad362e3899e
 https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/index.mpd
 
+********** MYTV ManaMana **********
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="ANIPLUS" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",ANIPLUS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/AniPlus/index.mpd
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="DRAMA CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",DRAMA CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/DramaChannel/index.mpd
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="GLOBAL TREKKER" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",GLOBAL TREKKER
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/GlobalTrekker/index.mpd
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="KCM" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",KCM
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/Kcm/index.mpd
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="ROCK ACTION" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",ROCK ACTION
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/RockAction/index.mpd
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",ROCK ENTERTAINMENT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/RockEntertainment/index.mpd
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="SPOTVNOW" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",SPOTVNOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/SpotvNow/index.mpd
+
+#EXTINF:-1 tvg-id="mytv" tvg-name="ZOOMOO" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🇲🇾 MYTV",ZOOMOO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/ZooMoo/index.mpd
+
 ********** PrimeVideo 1 **********
 
 #EXTINF:-1 tvg-id="primevideo1" tvg-name="ADULT SWIM" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🇬🇧 PRIMEVIDEO 1",ADULT SWIM
@@ -1026,13 +1084,6 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 ********** WorldTV **********
-
-#EXTINF:-1 tvg-id="worldtv" tvg-name="FX" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",ANIPLUS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://slive.mana2.my/AniPlus/index.mpd
 
 #EXTINF:-1 tvg-id="worldtv" tvg-name="FX" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",FX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
