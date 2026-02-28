@@ -1145,7 +1145,7 @@ https://absvod.akamaized.net/c/2/m/8a810652-4469-11ec-9ac0-0137550b00c0.ism/mani
 
 ********** Movies:VivaOne Tagalog **********
 
-#EXTINF:-1 tvg-id="moviesvivaone" tvg-name="SANGGANO, SANGGAGO'T SANGGWAPO" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 VIVAONEMOVIES",ILIGPIT SI BOBBY ORTEGA
+#EXTINF:-1 tvg-id="moviesvivaone" tvg-name="ILIGPIT SI BOBBY ORTEGA" tvg-logo="https://play-lh.googleusercontent.com/L_91b9_-4xDNFK7BVHkKYY_yuLjV5WEmdSiNzf74PKXehRiH_V9E2P44-_IQqqH0MQkv" group-title="🇵🇭 VIVAONEMOVIES",ILIGPIT SI BOBBY ORTEGA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
