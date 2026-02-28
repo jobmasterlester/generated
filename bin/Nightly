@@ -1142,3 +1142,12 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a810652446911ec9ac00137550b00c0:c561702961b59c4c5e2de21a29b3fff2
 https://absvod.akamaized.net/c/2/m/8a810652-4469-11ec-9ac0-0137550b00c0.ism/manifest.mpd
+
+********** Movies:VivaOne Tagalog **********
+
+  #EXTINF:-1 tvg-id="moviesvivaone" tvg-name="SANGGANO, SANGGAGO'T SANGGWAPO" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 VIVAONEMOVIES",ILIGPIT SI BOBBY ORTEGA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0241c22e410fe09ae26e2cfbeab33f2:e1fd7d7ffe77d374736a292aad4dad99
+https://cdnbp.vivamax.net/video/T98189_FF_LM_ILIGPIT%20SI%20BOBBY%20ORTEGA%20MARKANG%20BUNGO%202/dash/hd.mpd
