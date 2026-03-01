@@ -1099,26 +1099,12 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=35df612f2a58436d85806c585fcf56ce:9dfbd593c235de9843823be314b974cb
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561902/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv" tvg-name="IQIYI" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",IQIYI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-https://feb483bc40ee4306a87c48b45452606f.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH12-dash/default_ott.mpd
-
 #EXTINF:-1 tvg-id="worldtv" tvg-name="KINO ACTION" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",KINO ACTION
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3d36e39d7a348b8baefe91d766502fd:c7dbd70b01503a82d081f373bfb872a3
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560902/index.mpd
-
-#EXTINF:-1 tvg-id="worldtv" tvg-name="KOREAN DRAMA" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",KOREAN DRAMA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="worldtv" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://play-lh.googleusercontent.com/bTGz267wNxshrSUroMSbFHrw1fj9aWZbAUMYX4R_uyapQ4kwAN2P3iO2mluSBl9WHPSFUH6pmxwAIIpyC_mW3g" group-title="🌍 WORLDTV",NATIONAL GEOGRAPHIC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
