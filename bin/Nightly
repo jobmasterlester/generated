@@ -713,105 +713,105 @@ https://d123wz0csfw11u.cloudfront.net/out/v1/6e2906534002432984f73742ef2bcbfe/in
 
 ********** WorldTV: Cgates **********
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="FX" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",FX
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="FX" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",FX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=35df612f2a58436d85806c585fcf56ce:9dfbd593c235de9843823be314b974cb
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561902/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="KINO ACTION" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",KINO ACTION
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="KINO ACTION" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",KINO ACTION
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3d36e39d7a348b8baefe91d766502fd:c7dbd70b01503a82d081f373bfb872a3
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560902/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="KINO COMEDY" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",KINO COMEDY
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="KINO COMEDY" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",KINO COMEDY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc75aa7946574c98ba16581c6fcb482c:0067607f24eed00bbf50155760f8c6b3
 https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561404/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="MTV 00S" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",MTV 00S
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="MTV 00S" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",MTV 00S
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba29ad1cfb7c4a8b95cca44cf4641e78:b5db7930ad42ca8e7eff680ffba8a713
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560410/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="MTV HITS" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",MTV HITS
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="MTV HITS" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",MTV HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73be9dd0138241bcaced7d4fb3f5a4b1:eebcb531a9deb6ab2de1a342c058afb8
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560612/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="MTV LIVE" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",MTV LIVE
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="MTV LIVE" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",MTV LIVE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560701/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="NATGEO WILD" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",NATGEO WILD
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="NATGEO WILD" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",NATGEO WILD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561201/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",NATIONAL GEOGRAPHIC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
 https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="NICK JR." tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",NICK JR.
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="NICK JR." tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",NICK JR.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=188dd156ec11415d901a5abfaa6ce47c:75320892227e1ecff0c6089cc45b8ba9
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561207/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="NICKELODEON" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",NICKELODEON
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="NICKELODEON" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",NICKELODEON
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02e18ec34420451aa07507f2872d5f96:44106545f5119bee912d48221b7a6695
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560607/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="NICK TOONS" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",NICK TOONS
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="NICK TOONS" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",NICK TOONS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="TLC" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",TLC
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="TLC" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",TLC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8692a36421b74b2fbc89da9581a30878:69768eabb65feda448401ee95c86fdd4
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560702/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="TRAVEL CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",TRAVEL CHANNEL
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="TRAVEL CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",TRAVEL CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2273a52098234332b1a12d0d9d82ad88:dd949a70fbf98aadf953e0f11f254a0c
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561008/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="TRAVEL XP" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",TRAVEL XP
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="TRAVEL XP" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",TRAVEL XP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=508655b453d34897b1584e2a77101ca5:e315199be7c88a76f3dc70311521e08b
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561107/index.mpd
 
-#EXTINF:-1 tvg-id="worldtv1" tvg-name="VIVID TOUCH" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 WORLDTV:CGATES",VIVID TOUCH (XXX)
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="VIVID TOUCH" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",VIVID TOUCH (XXX)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -820,63 +820,63 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560912/index.mpd
 
 ********** WorldTV: MYTV ManaMana **********
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="ANIPLUS" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 WORLDTV:MYTV",ANIPLUS
+#EXTINF:-1 tvg-id="mytv" tvg-name="ANIPLUS" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",ANIPLUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/AniPlus/index.mpd
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="DRAMA CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 WORLDTV:MYTV",DRAMA CHANNEL
+#EXTINF:-1 tvg-id="mytv" tvg-name="DRAMA CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",DRAMA CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/DramaChannel/index.mpd
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="GLOBAL TREKKER" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 WORLDTV:MYTV",GLOBAL TREKKER
+#EXTINF:-1 tvg-id="mytv" tvg-name="GLOBAL TREKKER" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",GLOBAL TREKKER
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/GlobalTrekker/index.mpd
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="KCM" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 WORLDTV:MYTV",KCM
+#EXTINF:-1 tvg-id="mytv" tvg-name="KCM" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",KCM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/Kcm/index.mpd
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="ONE HD" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 WORLDTV:MYTV",ONE HD
+#EXTINF:-1 tvg-id="mytv" tvg-name="ONE HD" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",ONE HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/OneHD/index.mpd
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="ROCK ACTION" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 WORLDTV:MYTV",ROCK ACTION
+#EXTINF:-1 tvg-id="mytv" tvg-name="ROCK ACTION" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",ROCK ACTION
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/RockAction/index.mpd
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 WORLDTV:MYTV",ROCK ENTERTAINMENT
+#EXTINF:-1 tvg-id="mytv" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",ROCK ENTERTAINMENT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/RockEntertainment/index.mpd
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="SPOTV NOW" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 WORLDTV:MYTV",SPOTV NOW
+#EXTINF:-1 tvg-id="mytv" tvg-name="SPOTV NOW" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",SPOTV NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/SpotvNow/index.mpd
 
-#EXTINF:-1 tvg-id="mytv" tvg-name="ZOOMOO" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 WORLDTV:MYTV",ZOOMOO
+#EXTINF:-1 tvg-id="mytv" tvg-name="ZOOMOO" tvg-logo="https://play-lh.googleusercontent.com/l6meLLvHnsYbbgOCTHo5PIyOJrYirsSxfSxP0uEYcr6DJZ94C0jOq9Cb1v-bxvtknVyl" group-title="🌍🇲🇾 MYTV",ZOOMOO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -885,231 +885,231 @@ https://slive.mana2.my/ZooMoo/index.mpd
 
 ********** WorldTV: PrimeVideo 1 **********
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="ADULT SWIM" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",ADULT SWIM
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="ADULT SWIM" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",ADULT SWIM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="AMAZON MOVIES" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",AMAZON MOVIES
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="AMAZON MOVIES" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",AMAZON MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="BBC EARTH" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",BBC EARTH
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="BBC EARTH" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",BBC EARTH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="CARTOON NETWORK" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",CARTOON NETWORK
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="CARTOON NETWORK" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",CARTOON NETWORK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="CBS SPORTS" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",CBS SPORTS
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="CBS SPORTS" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",CBS SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="CINEMAX EAST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",CINEMAX EAST
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="CINEMAX EAST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",CINEMAX EAST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="CINEMAX HITS" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",CINEMAX HITS
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="CINEMAX HITS" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",CINEMAX HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="CINEMAX WEST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",CINEMAX WEST
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="CINEMAX WEST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",CINEMAX WEST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="DISNEY CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="DISNEY CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",DISNEY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="EUROSPORT 1" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",EUROSPORT 1
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="EUROSPORT 1" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",EUROSPORT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=15b830e0b73b0b8ef99786121997d5f5:51646d5e500648c6a4e319c7861e963f
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/at8teepvrn/out/v1/ab8d59a847f046c88f07a7f3d115d7fe/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="EUROSPORT 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",EUROSPORT 2
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="EUROSPORT 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",EUROSPORT 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="FOX SPORTS 1" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",FOX SPORTS 1
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="FOX SPORTS 1" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",FOX SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="FOX SPORTS 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",FOX SPORTS 2
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="FOX SPORTS 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",FOX SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="FOX SPORTS 3" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",FOX SPORTS 3
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="FOX SPORTS 3" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",FOX SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",FOX SPORTS PREMIUM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="GLORY KICK BOXING" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",GLORY KICK BOXING
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="GLORY KICK BOXING" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",GLORY KICK BOXING
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8312167d7069b2cf5020eb4d9b8f30fe:af4deab1104c3f1ea9502b065c7e4907
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/f0pyujzc28/out/v1/fa2a3273fd8b4a8ca6862eb4cb4f8ad7/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",HBO 2
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",HBO 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO BOXING" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",HBO BOXING
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO BOXING" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",HBO BOXING
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO COMEDY" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",HBO COMEDY
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO COMEDY" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",HBO COMEDY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO EAST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",HBO EAST
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO EAST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",HBO EAST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO SIGNATURE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",HBO SIGNATURE
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO SIGNATURE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",HBO SIGNATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO WEST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",HBO WEST
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO WEST" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",HBO WEST
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO ZONE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",HBO ZONE
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HBO ZONE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",HBO ZONE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="HUNTER X HUNTER" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",HUNTER X HUNTER
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="HUNTER X HUNTER" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",HUNTER X HUNTER
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=858b2580ad037cdbbd277a6db2f2a1c4:de6a269370d725b966200f8e595a1638
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/f97mngnn6a/out/v1/7b921c8b0cb84718aa9f3f36c65c475f/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="LOVE NATURE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",LOVE NATURE
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="LOVE NATURE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",LOVE NATURE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="NBA TV" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",NBA TV
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="NBA TV" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",NBA TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="RIVER MONSTER" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",RIVER MONSTER
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="RIVER MONSTER" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",RIVER MONSTER
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2ddad21d97f7c691a1a99cef165c58f0:75025f174eb1cb8b709f85296019205d
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/0qrkszlddc/out/v1/c6dab014c9c8427f8547daf238154fc2/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="STARMAX" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",STARMAX
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="STARMAX" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",STARMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="TNT SPORTS 1" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",TNT SPORTS 1
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="TNT SPORTS 1" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="TNT SPORTS 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",TNT SPORTS 2
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="TNT SPORTS 2" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",TNT SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="TNT SPORTS 3" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",TNT SPORTS 3
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="TNT SPORTS 3" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",TNT SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="TNT SPORTS 4" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",TNT SPORTS 4
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="TNT SPORTS 4" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",TNT SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo1" tvg-name="XTREME JOBS" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 1",XTREME JOBS
+#EXTINF:-1 tvg-id="primevideo1" tvg-name="XTREME JOBS" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 1",XTREME JOBS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1118,56 +1118,56 @@ https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c9apdu0moz/o
 
 ********** WorldTV: PrimeVideo 2 **********
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="ACTION MAX" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 2",ACTION MAX
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="ACTION MAX" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 2",ACTION MAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
 https://a204aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/uzw5jfu8dj/out/v1/de55bcd3afe843b98765232fd64a4a83/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="AMC+" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 2",AMC+
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="AMC+" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 2",AMC+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="MR. BEAN" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 2",MR. BEAN
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="MR. BEAN" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 2",MR. BEAN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=086b401b6a619cdb0e61b2973d315d5a:c3360a5e54c649244b9776f21b9b9384
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mmlfd2azxy/out/v1/bf22ff4619cf47098a6d5afb25d1dc7c/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="MR. BEAN ANIMATION" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 2",MR. BEAN ANIMATION
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="MR. BEAN ANIMATION" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 2",MR. BEAN ANIMATION
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de5be0ad5c2ba3cbb7b945a712cde576:3deda8f8468c27a5c15ae2a64b8a4bce
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xe8f4n9fhz/out/v1/89d673d6ddfb44f8add1ea7104398f57/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="POKEMON" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 2",POKEMON
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="POKEMON" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 2",POKEMON
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=85e598202aee21dd2be766740845cc66:82024f1667c874473f40bd895485b2a4
 https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/apmgpfkqtp/out/v1/bc7a58fc207e4b3f9ac862bd798521a3/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="THE WALKIND DEAD CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 2",THE WALKIND DEAD CHANNEL
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="THE WALKIND DEAD CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 2",THE WALKIND DEAD CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=50a71b1ce9eb116cd7bd98a946d71109:08b8b340baeebca12ef50a52c6ec1d1d
 https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="TREEHOUSE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 2",TREEHOUSE
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="TREEHOUSE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 2",TREEHOUSE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
 https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="YTV" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 WORLDTV:PRIMEVIDEO 2",YTV
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="YTV" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO 2",YTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1176,28 +1176,28 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 
 ********** WorldTV: TimesPlay **********
 
-#EXTINF:-1 tvg-id="timesplay" tvg-name="MN+" tvg-logo="https://play-lh.googleusercontent.com/-1KS32YCJEjmJ_oLLEv1eL3vH5bZdJvmCC3TEXX0tLrU9OhHXb8O5bgHw-aBymyP-Rtl" group-title="🌍🇮🇳 WORLDTV:TIMESPLAY",MN+
+#EXTINF:-1 tvg-id="timesplay" tvg-name="MN+" tvg-logo="https://play-lh.googleusercontent.com/-1KS32YCJEjmJ_oLLEv1eL3vH5bZdJvmCC3TEXX0tLrU9OhHXb8O5bgHw-aBymyP-Rtl" group-title="🌍🇮🇳 TIMESPLAY",MN+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="timesplay" tvg-name="MNX" tvg-logo="https://play-lh.googleusercontent.com/-1KS32YCJEjmJ_oLLEv1eL3vH5bZdJvmCC3TEXX0tLrU9OhHXb8O5bgHw-aBymyP-Rtl" group-title="🌍🇮🇳 WORLDTV:TIMESPLAY",MNX
+#EXTINF:-1 tvg-id="timesplay" tvg-name="MNX" tvg-logo="https://play-lh.googleusercontent.com/-1KS32YCJEjmJ_oLLEv1eL3vH5bZdJvmCC3TEXX0tLrU9OhHXb8O5bgHw-aBymyP-Rtl" group-title="🌍🇮🇳 TIMESPLAY",MNX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="timesplay" tvg-name="MOVIES NOW" tvg-logo="https://play-lh.googleusercontent.com/-1KS32YCJEjmJ_oLLEv1eL3vH5bZdJvmCC3TEXX0tLrU9OhHXb8O5bgHw-aBymyP-Rtl" group-title="🌍🇮🇳 WORLDTV:TIMESPLAY",MOVIES NOW
+#EXTINF:-1 tvg-id="timesplay" tvg-name="MOVIES NOW" tvg-logo="https://play-lh.googleusercontent.com/-1KS32YCJEjmJ_oLLEv1eL3vH5bZdJvmCC3TEXX0tLrU9OhHXb8O5bgHw-aBymyP-Rtl" group-title="🌍🇮🇳 TIMESPLAY",MOVIES NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="timesplay" tvg-name="ROMEDY NOW" tvg-logo="https://play-lh.googleusercontent.com/-1KS32YCJEjmJ_oLLEv1eL3vH5bZdJvmCC3TEXX0tLrU9OhHXb8O5bgHw-aBymyP-Rtl" group-title="🌍🇮🇳 WORLDTV:TIMESPLAY",ROMEDY NOW
+#EXTINF:-1 tvg-id="timesplay" tvg-name="ROMEDY NOW" tvg-logo="https://play-lh.googleusercontent.com/-1KS32YCJEjmJ_oLLEv1eL3vH5bZdJvmCC3TEXX0tLrU9OhHXb8O5bgHw-aBymyP-Rtl" group-title="🌍🇮🇳 TIMESPLAY",ROMEDY NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
