@@ -706,6 +706,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 
 ********** WorldTV: Cgates **********
 
+#EXTINF:-1 tvg-id="worldtv1" tvg-name="BARELY LEGAL TV" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",BARELY LEGAL TV (XXX)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560910/index.mpd
+
 #EXTINF:-1 tvg-id="worldtv1" tvg-name="FX" tvg-logo="https://play-lh.googleusercontent.com/goo4XfxTwN_W4kyaIogmCFOWMgobttU6wgTgIzC4zuPPhsKwFNeqkwooBHmTSECDayuo" group-title="🌍🇱🇹 CGATES",FX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
