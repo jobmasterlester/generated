@@ -660,14 +660,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbn
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d308ef487f54107b7da758e195ecbd3:9d4004d4c065dd4b85ad5bd12c35386f
-https://absp-live.akamaized.net/dash/live/2099522/glife3/manifest.mpd
+https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 
 #EXTINF:-1 tvg-id="iwanttv" tvg-name="GMA NEWS TV" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",GMA NEWS TV (GEOBLOCK)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5d848730e4a4f9b962290039dd2b96b:c959dc12f1bff5a66d030117fb7e9855
-https://absp-live.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
+https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 
 #EXTINF:-1 tvg-id="iwanttv" tvg-name="GMA PINOY TV" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",GMA PINOY TV (GEOBLOCK)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
