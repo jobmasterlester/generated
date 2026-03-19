@@ -611,13 +611,6 @@ http://136.239.158.30:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=Ta
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 http://136.239.158.30:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=Tajaqa/dPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg==&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-********** GSATPlus **********
-
-#EXTINF:-1 tvg-id="gsat" tvg-name="GMA 7" tvg-logo="https://play-lh.googleusercontent.com/ioYMHyihNJyqdKh8KTAAf6tK-JIghSLuqojO_tkoohslDyRdx6WoOp1C44lB8v3K1EA" group-title="🇵🇭 GSATPLUS",GMA 7 (TEST)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://gsattv.akamaized.net/live/media0/gma7/Widevine/gma7.mpd
-
 ********** IwantTV **********
 
 #EXTINF:-1 tvg-id="iwanttv" tvg-name="ANC" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",ANC
