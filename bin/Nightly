@@ -1368,6 +1368,20 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/mml
 #KODIPROP:inputstream.adaptive.license_key=de5be0ad5c2ba3cbb7b945a712cde576:3deda8f8468c27a5c15ae2a64b8a4bce
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xe8f4n9fhz/out/v1/89d673d6ddfb44f8add1ea7104398f57/cenc.mpd
 
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="NBA" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",NBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/vgkshf22lc/out/v1/9dbd7e519cf34fe2a53a85ee85bc407f/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo2" tvg-name="NFL CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",NFL CHANNEL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f9500365e5258070ead151217c9257:73acae852d0128ffc3b55846ebb56a9c
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/v3kqgwb8iy/out/v1/3f25a97e7f4143c08b25ce350dc53053/cenc.mpd
+
 #EXTINF:-1 tvg-id="primevideo" tvg-name="POKEMON" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",POKEMON
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1388,6 +1402,13 @@ https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
 https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="UFC" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",UFC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 
 #EXTINF:-1 tvg-id="primevideo" tvg-name="YTV" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",YTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
