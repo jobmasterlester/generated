@@ -1428,15 +1428,6 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-********** Movies:Iwant **********
-
-#EXTINF:-1 tvg-id="moviesiwant" tvg-name="SANGGANO, SANGGAGO'T SANGGWAPO" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 MOVIES:IWANT",SANGGANO, SANGGAGO'T SANGGWAPO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a810652446911ec9ac00137550b00c0:c561702961b59c4c5e2de21a29b3fff2
-https://absvod.akamaized.net/c/2/m/8a810652-4469-11ec-9ac0-0137550b00c0.ism/manifest.mpd
-
 ********** Movies:VivaOne Tagalog **********
 
 #EXTINF:-1 tvg-id="moviesvivaone" tvg-name="ILIGPIT SI BOBBY ORTEGA" tvg-logo="https://play-lh.googleusercontent.com/L_91b9_-4xDNFK7BVHkKYY_yuLjV5WEmdSiNzf74PKXehRiH_V9E2P44-_IQqqH0MQkv" group-title="🇵🇭 MOVIES:VIVAONE",ILIGPIT SI BOBBY ORTEGA
