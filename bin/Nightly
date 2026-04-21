@@ -1361,7 +1361,7 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/uzw5jfu8dj/out
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="MBL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",MBL
+#EXTINF:-1 tvg-id="primevideo" tvg-name="MBL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",MBL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1382,14 +1382,14 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/mmlfd2azxy/out
 #KODIPROP:inputstream.adaptive.license_key=de5be0ad5c2ba3cbb7b945a712cde576:3deda8f8468c27a5c15ae2a64b8a4bce
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xe8f4n9fhz/out/v1/89d673d6ddfb44f8add1ea7104398f57/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="NBA" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",NBA
+#EXTINF:-1 tvg-id="primevideo" tvg-name="NBA" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",NBA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/vgkshf22lc/out/v1/9dbd7e519cf34fe2a53a85ee85bc407f/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo2" tvg-name="NFL CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",NFL CHANNEL
+#EXTINF:-1 tvg-id="primevideo" tvg-name="NFL CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",NFL CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1408,7 +1408,7 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/apmgpfkqtp/out
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=50a71b1ce9eb116cd7bd98a946d71109:08b8b340baeebca12ef50a52c6ec1d1d
-https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd
 
 #EXTINF:-1 tvg-id="primevideo" tvg-name="TREEHOUSE" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",TREEHOUSE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1429,7 +1429,7 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/8mxwjnh2te/out
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
-https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
 ********** WorldTV: TimesPlay **********
 
