@@ -1200,9 +1200,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",EURONEWS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a245775c8e8479789fee5754b12d409:3c5dd5328315d0c9cc360b724045afe2
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
 
 #EXTINF:-1 tvg-id="iwanttv" tvg-name="GMA LIFE TV" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",GMA LIFE TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
