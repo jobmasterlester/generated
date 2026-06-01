@@ -1143,7 +1143,7 @@ http://136.239.158.30:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=Ta
 #EXTINF:-1 tvg-id="converge" tvg-name="GMA 71" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",GMA 7 (TEST1)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-http://136.239.158.30:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+http://136.239.158.30:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="converge" tvg-name="KAPAMILYA CHANNEL HD" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",KAPAMILYA CHANNEL HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
