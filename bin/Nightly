@@ -1596,9 +1596,16 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 ********** Movies:VivaOne Tagalog **********
 
-#EXTINF:-1 tvg-id="moviesvivaone" tvg-name="ILIGPIT SI BOBBY ORTEGA" tvg-logo="https://play-lh.googleusercontent.com/L_91b9_-4xDNFK7BVHkKYY_yuLjV5WEmdSiNzf74PKXehRiH_V9E2P44-_IQqqH0MQkv" group-title="🇵🇭 MOVIES:VIVAONE",ILIGPIT SI BOBBY ORTEGA
+#EXTINF:-1 tvg-id="moviesvivaone" tvg-name="ILIGPIT SI BOBBY ORTEGA" tvg-logo="https://play-lh.googleusercontent.com/L_91b9_-4xDNFK7BVHkKYY_yuLjV5WEmdSiNzf74PKXehRiH_V9E2P44-_IQqqH0MQkv" group-title="🇵🇭 MOVIES:VIVAONE",ILIGPIT SI BOBBY ORTEGA: MARKANG BUNGO 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b0241c22e410fe09ae26e2cfbeab33f2:e1fd7d7ffe77d374736a292aad4dad99
-https://cdnbp.vivamax.net/video/T98189_FF_LM_ILIGPIT%20SI%20BOBBY%20ORTEGA%20MARKANG%20BUNGO%202/dash/hd.mpd
+https://d1qfpvemzhsbpm.cloudfront.net/video/T98189_FF_LM_ILIGPIT%20SI%20BOBBY%20ORTEGA%20MARKANG%20BUNGO%202/dash/hd.mpd
+
+#EXTINF:-1 tvg-id="moviesvivaone" tvg-name="MISTAH" tvg-logo="https://play-lh.googleusercontent.com/L_91b9_-4xDNFK7BVHkKYY_yuLjV5WEmdSiNzf74PKXehRiH_V9E2P44-_IQqqH0MQkv" group-title="🇵🇭 MOVIES:VIVAONE",MISTAH: MGA MANDIRIGMA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fb0b686ef4d479e627acab55cc0377a:8001f2cd2c814c37428969414a85eb8b
+https://d1qfpvemzhsbpm.cloudfront.net/video/T96800_FF_LM_MISTAH/dash/hd.mpd
