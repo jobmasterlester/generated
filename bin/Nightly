@@ -1589,6 +1589,13 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 ********** Movies:VivaOne Tagalog **********
 
+#EXTINF:-1 tvg-id="moviesvivaone" tvg-name="BILIB AKO SA'YO" tvg-logo="https://play-lh.googleusercontent.com/L_91b9_-4xDNFK7BVHkKYY_yuLjV5WEmdSiNzf74PKXehRiH_V9E2P44-_IQqqH0MQkv" group-title="🇵🇭 MOVIES:VIVAONE",BILIB AKO SA'YO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a1a4e5087711560a3ab4dc96f677104:f9e38a54bed8c6586f08e83b0c9a313b
+https://cdnbp.vivamax.net/video/T96447_FF_LM_BILIB%20AKO%20SA'YO/dash/hd.mpd
+
 #EXTINF:-1 tvg-id="moviesvivaone" tvg-name="ILIGPIT SI BOBBY ORTEGA" tvg-logo="https://play-lh.googleusercontent.com/L_91b9_-4xDNFK7BVHkKYY_yuLjV5WEmdSiNzf74PKXehRiH_V9E2P44-_IQqqH0MQkv" group-title="🇵🇭 MOVIES:VIVAONE",ILIGPIT SI BOBBY ORTEGA: MARKANG BUNGO 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
