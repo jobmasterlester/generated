@@ -1180,7 +1180,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+https://d14c00opfjb50c.cloudfront.net/out/v1/0fa4eb67579d41cca4ed146c93aa855f/index.mpd
 
 #EXTINF:-1 tvg-id="iwanttv" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",EURONEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1251,6 +1251,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
+********** Test Channels **********
+
+
 
 ********** WorldTV: MYTV ManaMana **********
 
