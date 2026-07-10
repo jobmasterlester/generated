@@ -15,7 +15,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab3d7e816f254c9490185d2a8f7e3640:a3bbc044cac690469a243c43f642c467
+#KODIPROP:inputstream.adaptive.license_key=d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
 
 #EXTINF:-1 tvg-id="cignalplay1" tvg-name="ALJAZEERA" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY (A)",ALJAZEERA
@@ -542,7 +542,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab3d7e816f254c9490185d2a8f7e3640:a3bbc044cac690469a243c43f642c467
+#KODIPROP:inputstream.adaptive.license_key=d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87
 https://ucdn.mediaquest.com.ph/bpk-tv/abc_aus/default/index.mpd
 
 #EXTINF:-1 tvg-id="cignalplay2" tvg-name="ALJAZEERA" tvg-logo="https://play-lh.googleusercontent.com/53R4BrsQjn_7TJsj7PafI2zzDCvC77otFuh0cVzH5PiSZORxBL8IE8Eglh1JlrgEnb4" group-title="🇵🇭 CIGNALPLAY (M)",ALJAZEERA
