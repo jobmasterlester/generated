@@ -556,6 +556,16 @@ http://136.239.158.30:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=Ta
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=Tajaqa/dPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg==&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
+#EXTINF:-1 tvg-id="converge" tvg-name="PBO" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",PBO (N)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge" tvg-name="VIVA CINEMA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",VIVA CINEMA (N)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
 ********** IwantTV **********
 
 #EXTINF:-1 tvg-id="iwanttv" tvg-name="ANC1" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",ANC
