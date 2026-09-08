@@ -541,10 +541,25 @@ http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001095/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
+#EXTINF:-1 tvg-id="converge" tvg-name="CINEMA ONE" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",CINEMA ONE (N)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge" tvg-name="CINEMO!" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",CINEMO! (N)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
 #EXTINF:-1 tvg-id="converge" tvg-name="DISCOVERY ASIA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",DISCOVERY ASIA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001334/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvvSnkxKfMhap8P4VuFwrV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge" tvg-name="DZMM TELERADYO" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",DZMM TELERADYO (N)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="converge" tvg-name="GMA 7" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",GMA 7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
