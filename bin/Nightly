@@ -531,55 +531,525 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default/index.mpd
 
 ********** Converge **********
 
-#EXTINF:-1 tvg-id="converge" tvg-name="ANIMAX" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",ANIMAX
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="3ABN INTERNATIONAL" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",3ABN INTERNATIONAL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001183/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr64o8Us4Cb76FV%2BmBBNwJ2syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="A2Z" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",A2Z
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ABC AUSTRALIA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ABC AUSTRALIA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpS6W%2B6YCeAzzWlWVs9TWyRytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ALJAZEERA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ALJAZEERA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpIEgcDfK9VMvZFzWy7ZaCtytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ALIW CHANNEL 23" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ALIW CHANNEL 23
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ALL TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ALL TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ANC" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ANC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ANIMAL PLANET" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001335/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMs3LsiO6wq83YHtJwM7wV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ANIMAX" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ANIMAX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApUjG9Pouw9ZPY2OjOhRVs72%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="BBC NEWS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",BBC NEWS
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ARIRANG KOREA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ARIRANG KOREA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrA9GNo9at0BwcO0MP5gH5%2BytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.co&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="BBC NEWS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",BBC NEWS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001095/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="CINEMA ONE" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",CINEMA ONE (N)
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="BILYONARYO NEWS CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",BILYONARYO NEWS CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001124/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="BS 10" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",BS 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5DOWlb1sl%2Btaq5YYAtO9QytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="BS FUJI" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",BS FUJI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="BS NTV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",BS NTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001213/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqVCNWul70O3g%2BsOvpld6kgytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CARTOON NETWORK" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001178/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrybZ3RAQEBSZeKilHKlOj1ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CARTOONITO" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CARTOONITO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CCTV 4" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CCTV 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrXm%2BLs%2BN7C0jX0KTEhSJl3ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CELESTIAL MOVIES PINOY" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CELESTIAL MOVIES PINOY
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CGTN" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CGTN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001110/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArdyomhJMtr4RuT7a45TbNMsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CINEMA ONE" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CINEMA ONE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="CINEMO!" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",CINEMO! (N)
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CINEMAX" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CINEMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CINE MO!" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CINE MO!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="DISCOVERY ASIA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",DISCOVERY ASIA
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CLTV 36" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CLTV 36
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CNA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CNA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="CNN" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",CNN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="DA AI TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",DA AI TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001201/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoc972%2B9bszPiQPXL2uIItWsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="DD NATIONAL" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",DD NATIONAL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001148/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApXWNNS2TvTF9lR8xvbk1CJsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="DISCOVERY ASIA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",DISCOVERY ASIA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001334/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvvSnkxKfMhap8P4VuFwrV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="DZMM TELERADYO" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",DZMM TELERADYO (N)
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="DW NEWS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",DW NEWS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoTcUYwq3PMi%2FTObKiSY6bDytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="DZRH TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",DZRH TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="DZRJ 810 AM TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",DZRJ 810 AM TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001338/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAquM2DhqYshrFbBoS4HC4mc2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="DZMM TELERADYO" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",DZMM TELERADYO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="GMA 7" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",GMA 7
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="EDGE SPORT" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",EDGE SPORT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",EURONEWS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001336/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhLZBm9kWDyfiRCDGdvX2q2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="EWTN" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",EWTN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="FASHIONTV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",FASHIONTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="FRANCE 24" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",FRANCE 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br79DvzaC5n7CqXniN8aprYytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="GOLDEN NATION NETWORK" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",GOLDEN NATION NETWORK
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001234/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp6sHVPy02nySMqUY2vMm%2BjytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="GMA 71" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",GMA 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="GMA 72" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",GMA 7 (TEST)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=Tajaqa/dPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY4LvT86fM74ocVChyFS93HUe9OnZTxGvJPcGpQT0Y5Pwg==&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="KAPAMILYA CHANNEL HD" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",KAPAMILYA CHANNEL HD
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="GTV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",GTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="HALLYPOP" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",HALLYPOP
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="HB0" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="HUNAN TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",HUNAN TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001164/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp6wcBVnnqOi%2FM7rVR2UnT6syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="IBC 13" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",IBC 13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="INCTV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",INCTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="JEEPNEY TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",JEEPNEY TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="KAPAMILYA CHANNEL HD1" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",KAPAMILYA CHANNEL HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="KAPAMILYA CHANNEL HD2" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",KAPAMILYA CHANNEL HD (TEST)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=Tajaqa/dPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg==&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="PBO" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",PBO (N)
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="KBS WORLD" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",KBS WORLD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="KIX" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",KIX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="KNOWLEDGE CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",KNOWLEDGE CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="LIGHT TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",LIGHT TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="LIVING ASIA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",LIVING ASIA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="LOTUS MACAO" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",LOTUS MACAO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="METRO CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",METRO CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="MINDANOW NETWORK" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",MINDANOW NETWORK
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="MYX" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",MYX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="NET 25" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",NET 25
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpBCCDeDIJn9rDuWx8BszuXytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="NHK BS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",NHK BS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="NHK WORLD JAPAN" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="NICK JR." tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",NICK JR.
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ONE NEWS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ONE NEWS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001084/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArVgubraL%2BIHu4fk7y9Ng6RsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ONE PH" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ONE PH
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001198/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ONE SPORTS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ONE SPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ORAS NG HIMALA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ORAS NG HIMALA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001175/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpQqyrYGvsQGfBZz9lkpM7HytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="PBO" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",PBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="converge" tvg-name="VIVA CINEMA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE",VIVA CINEMA (N)
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="PHOENIX CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",PHOENIX CHANNEL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="PINOY XTREME" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",PINOY XTREME
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001098/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApC219uqwL0dVmslrkAjamFsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="PREMIER FOOTBALL" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",PREMIER FOOTBALL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001127/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="PREMIER SPORTS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",PREMIER SPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="PREMIER SPORTS 2" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",PREMIER SPORTS 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="PTV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",PTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="RADIO MARIA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",RADIO MARIA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoMJQgjeNgI0lKcIWq2Qc67ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="RJ DIGI TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",RJ DIGI TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="ROCK MNL" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",ROCK MNL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq3IoTFSryS9b7zI0P4QXhKytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="RPTV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",RPTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="SAUDI TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",SAUDI TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001176/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqx%2BXO6kYP1duDF0CR%2BT7zbytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="SMNI" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",SMNI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001155/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="SOLAR FLIX" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",SOLAR FLIX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="SOLAR SPORTS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",SOLAR SPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="SPOTLIGHT TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",SPOTLIGHT TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001134/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5iGQ4tDytzSdpM9ehJW6pytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TAP ACTION FLIX" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TAP ACTION FLIX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TAP EDGE" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TAP EDGE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TAP MOVIES" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TAP MOVIES
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrqmX9tLke4aZIpUgreyOpNytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TAP SPORTS" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TAP SPORTS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TAP TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TAP TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TBN ASIA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TBN ASIA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TELEVISIÓN ESPAÑOLA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TELEVISIÓN ESPAÑOLA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001112/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0ljLQuLaqTKdgvofK6hc4ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="THRILL" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",THRILL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TMC" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TMC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TV MARIA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TV MARIA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TV5 HD" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TV5 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="TV5 MONDE ASIE" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",TV5 MONDE ASIE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrZbWy4P3NKKVNXe3wACXZmytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="UNTV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",UNTV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8EKxpteUJNLDuI18c3YYNytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="USA TODAY" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",USA TODAY
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001199/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoYf5t%2B2bebnbia7IXJABLsytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="VEGAS LIFE" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",VEGAS LIFE
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="VIVA CINEMA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",VIVA CINEMA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 http://136.239.158.30:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="VOA" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",VOA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001099/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2FDUoNrO3rJTMQSZlDUFIEsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="WARNER TV" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",WARNER TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="WION" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",WION
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001265/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq8k274WYPuH9%2FjID6Bh2tQ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="converge.ph" tvg-name="XING KONG" tvg-logo="https://play-lh.googleusercontent.com/qif6eM-SuJ24gxBj2bwWyWMTAxliOMKNhGOkO8YUEcKbrotGUuooyIxge39KvGGQoQQ" group-title="🇵🇭 CONVERGE VISION",XING KONG
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+http://136.239.158.30:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO
 
 ********** IwantTV **********
 
@@ -597,7 +1067,7 @@ https://abslive.akamaized.net/dash/live/2027618/abc-au/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
 https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
 
-#EXTINF:-1 tvg-id="iwanttv" tvg-name="ANC2" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",ANC (GLB) (NA)
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="ANC2" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",ANC (GLB)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -611,21 +1081,21 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 #KODIPROP:inputstream.adaptive.license_key=55eddd1e157e4c3b830866e4679e7032:525030e984567ba8df0af80660952368
 https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
 
-#EXTINF:-1 tvg-id="iwanttv" tvg-name="CINEMA ONE2" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",CINEMA ONE (GLB) (NA)
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="CINEMA ONE2" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",CINEMA ONE (GLB)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="iwanttv" tvg-name="CINE MO!" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",CINE MO! (GLB) (NA)
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="CINE MO!" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",CINE MO! (GLB)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="iwanttv" tvg-name="DZMM TELERADYO" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",DZMM TELERADYO (NA)
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="DZMM TELERADYO" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",DZMM TELERADYO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -667,35 +1137,35 @@ https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 
-#EXTINF:-1 tvg-id="iwanttv" tvg-name="KAPAMILYA CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",KAPAMILYA CHANNEL (NA)
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="KAPAMILYA CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",KAPAMILYA CHANNEL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="iwanttv" tvg-name="KNOWLEDGE CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",KNOWLEDGE CHANNEL (NA)
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="KNOWLEDGE CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",KNOWLEDGE CHANNEL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1f88dd3b254514bf7a113188c10dc2:ea86da60f0116f3b92a86acf45b8e071
 https://abslive.akamaized.net/dash/live/2028189/kc3/manifest.mpd
 
-#EXTINF:-1 tvg-id="iwanttv" tvg-name="MOR" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",MOR (NA)
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="MOR" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",MOR
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e5905e0a87641798a200510f01ae5ca:814310518395440d57c67f2ef70ea250
 https://abslive.akamaized.net/dash/live/2028025/mor3/manifest.mpd
 
-#EXTINF:-1 tvg-id="iwanttv" tvg-name="MYX" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",MYX (NA)
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="MYX" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",MYX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:35e4893c6e76546085941be3010932d4
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="iwanttv" tvg-name="TFC" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",TFC ASIA (NA)
+#EXTINF:-1 tvg-id="iwanttv" tvg-name="TFC" tvg-logo="https://play-lh.googleusercontent.com/U6Jil1rUBpgo6B-maaA7iE3kfNOL61zcZILCKElPSxKWHXr6IzF_zyHo4DS2CEYQ4Lc" group-title="🇵🇭 IWANTTV",TFC ASIA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
