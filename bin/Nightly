@@ -1292,6 +1292,20 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/u7xfabrc5b/out
 #KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
 
+#EXTINF:-1 tvg-id="primevideo" tvg-name="HUNTER X HUNTER (SD)" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",HUNTER X HUNTER (SD)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=858b2580ad037cdbbd277a6db2f2a1c4:de6a269370d725b966200f8e595a1638
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/f97mngnn6a/out/v1/7b921c8b0cb84718aa9f3f36c65c475f/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="primevideo" tvg-name="HUNTER X HUNTER (HD)" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",HUNTER X HUNTER (HD)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96dcd154d01a7d93b4cabc5d552c7a0c:64ba33f47a155e22e396cc0498a01a05
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/f97mngnn6a/out/v1/7b921c8b0cb84718aa9f3f36c65c475f/cenc.mpd
+
 #EXTINF:-1 tvg-id="primevideo" tvg-name="MBL" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",MBL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
