@@ -1460,6 +1460,13 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 
+#EXTINF:-1 tvg-id="primevideo" tvg-name="YU-GI-OH!" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",YU-GI-OH!
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=afd7a43ae69a2aac4f9e81da5a2bc48e:6d3f4fdf822349680b72b65af2a6a2f0
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/yfx6veimxs/out/v1/bd902f383aa8442387bffb8f319c7b30/cenc.mpd
+
 ********** WorldTV: TimesPlay **********
 
 #EXTINF:-1 tvg-id="timesplay" tvg-name="MN+" tvg-logo="https://play-lh.googleusercontent.com/-1KS32YCJEjmJ_oLLEv1eL3vH5bZdJvmCC3TEXX0tLrU9OhHXb8O5bgHw-aBymyP-Rtl" group-title="🌍🇮🇳 TIMESPLAY",MN+
