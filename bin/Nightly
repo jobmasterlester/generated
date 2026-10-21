@@ -1215,13 +1215,6 @@ https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/gyczo3tdxu/out
 #KODIPROP:inputstream.adaptive.license_key=2a7b08ddf92032625b19313642952875:c31f21624a07724a035c8980ff2805bc
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/wd7g2qqnor/out/v1/269b08b119c54b0db9f3b3ed275486f5/cenc.mpd
 
-#EXTINF:-1 tvg-id="primevideo" tvg-name="AMAZON MOVIES" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",AMAZON MOVIES
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
-https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/jflyzlu2ri/out/v1/7371c3ab0420460f9f9ede6767009c22/cenc.mpd
-
 #EXTINF:-1 tvg-id="primevideo" tvg-name="CINEMAX ACTION" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",CINEMAX ACTION
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
