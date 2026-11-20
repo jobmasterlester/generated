@@ -1201,6 +1201,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnon
 
 ********** WorldTV: PrimeVideo **********
 
+#EXTINF:-1 tvg-id="primevideo" tvg-name="AEW" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",AEW
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d
+https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd
+
 #EXTINF:-1 tvg-id="primevideo" tvg-name="AMAZON MOVIES" tvg-logo="https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s" group-title="🌍🇬🇧 PRIMEVIDEO",AMAZON MOVIES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
